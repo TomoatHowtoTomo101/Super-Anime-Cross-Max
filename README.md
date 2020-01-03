@@ -6,3 +6,5 @@ Note: This is more based as an improvement to the first Anime Cross that can't b
 Templates for buttons and pre-main menu credits are included, and every version of the official release will only add 1 character, to ensure balance can be kept.
 
 The very first character I ever plan to add is Goku, who, funnily enough, will have the option to use his AX1 or AX2 skillsets, like a groove!
+
+Do not forget to leave your title screen card here, so that whoever can code in this project can feature us all! :D
